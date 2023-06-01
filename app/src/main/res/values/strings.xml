@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BaseApp</string>
+    <string name="devname">Cristian Silva Silva</string>
+    <string name="nombre">Nombre (requerido)</string>
+    <string name="apellido">Apellido (requerido)</string>
+    <string name="mail">Email (requerido)</string>
+    <string name="registerForm">Formulario de Registro</string>
+    <string name="register">Registrarse</string>
+    <string name="nameHint">Nombre</string>
+    <string name="surnameHint">Apellido</string>
+    <string name="mailHint">email@mail.com</string>
+</resources>
